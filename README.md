@@ -32,6 +32,12 @@ SwitchyOmega 插件适用于 Chromium 或基于 Chromium 的浏览器。可通�
 https://raw.githubusercontent.com/chugit/SwitchyOmegaBackup/main/OmegaOptions.bak
 ```
 
+或
+
+```         
+https://gitee.com/chugit2024/SwitchyOmegaBackup/raw/main/OmegaOptions.bak
+```
+
 ③（备选）若在线恢复不成功，可从 [github](https://github.com/chugit/SwitchyOmegaBackup/blob/main/OmegaOptions.bak) 或 [gitee](https://gitee.com/chugit2024/SwitchyOmegaBackup/raw/main/OmegaOptions.bak) 下载备份文件 OmegaOptions.bak，然后点击 "从备份文件恢复" 加载该文件。
 
 ## 修改 *GFWed* 参数
