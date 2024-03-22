@@ -22,7 +22,7 @@ SwitchyOmega 插件适用于 Chromium 或基于 Chromium 的浏览器。可通�
 
 打开 SwitchyOmega 选项，
 
-![SwitchyOmegaBackup1](https://github.com/chugit/SwitchyOmegaBackup/assets/156684016/d1db76fd-6564-4b8d-b29d-fac904297092)
+![](Pic/1.png)
 
 ① 点击 "导入/导出"；
 
@@ -44,7 +44,7 @@ https://gitee.com/chugit2024/SwitchyOmegaBackup/raw/main/OmegaOptions.bak
 
 插件配置恢复后，首先应根据代理软件实际，修改情景模式 *GFWed* 的参数。
 
-![SwitchyOmegaBackup2](https://github.com/chugit/SwitchyOmegaBackup/assets/156684016/671e4502-b934-49b1-83a6-91f838e408cc)
+![](Pic/2.png)
 
 根据所使用的代理软件的参数和说明书，对 *GFWed* 情景模式进行修改，选择并设定与代理软件对应的 "代理协议"、"代理服务器" 和 "代理端口"。
 
@@ -58,9 +58,9 @@ https://gitee.com/chugit2024/SwitchyOmegaBackup/raw/main/OmegaOptions.bak
 
 情景模式 *白名单* 和 *黑名单* 的参数默认设置如下，一般不需要修改。
 
-![SwitchyOmegaBackup3](https://github.com/chugit/SwitchyOmegaBackup/assets/156684016/fafb44c3-8f89-4da3-a9ad-26403c75ea83)
+![](Pic/3.png)
 
-![SwitchyOmegaBackup4](https://github.com/chugit/SwitchyOmegaBackup/assets/156684016/325795c0-0661-4bbe-a1e8-f1ccd1ce07a2)
+![](Pic/4.png)
 
 -   *白名单* 的规则列表网址为中国网址，可避免通过代理访问这些网址，适合访问网址以国外为主、国内为辅时使用。
 
